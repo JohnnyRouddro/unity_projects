@@ -1,3 +1,5 @@
+# [Play this game here](https://johnnyrouddro.itch.io/balancetheball)
+
 Screenshots
 ===========
 ![Screenshot 1](screenshots/screenshot1.jpg)
